@@ -1,0 +1,31 @@
+{
+  "name": "@zvezdochots/react-native-password-input",
+  "version": "1.0.0",
+  "description": "A simple React Native component for implementing password input field with show/hide button.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zvezdochots/react-native-password-input.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "input",
+    "text",
+    "password"
+  ],
+  "author": "Michael Silunsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zvezdochots/react-native-password-input/issues"
+  },
+  "homepage": "https://github.com/zvezdochots/react-native-password-input#readme",
+  "dependencies": {
+    "prop-types": "^15.8.0",
+    "react-native-vector-icons": "^9.0.0"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
